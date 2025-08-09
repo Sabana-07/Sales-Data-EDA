@@ -82,19 +82,11 @@ Found strong correlations between certain product categories and high sales volu
 🚀 How to Run the Notebook
 Clone this repository:
 
-bash
-Copy
-Edit
 git clone https://github.com/Sabana-07/Sales-Data-EDA.git
 Install dependencies:
 
-bash
-Copy
-Edit
+
 pip install pandas numpy matplotlib seaborn
 Open the Jupyter Notebook:
 
-bash
-Copy
-Edit
 jupyter notebook "Sales Data EDA.ipynb"
