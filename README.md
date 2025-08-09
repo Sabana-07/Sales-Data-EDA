@@ -1,4 +1,5 @@
 Sales Data Exploratory Data Analysis (EDA)
+
 📌 Project Overview
 This project performs Exploratory Data Analysis (EDA) on sales data from 2015 to 2019 to uncover trends, patterns, and insights that can support business decision-making. The analysis includes data cleaning, visualization, and deriving key insights about sales performance across time, products, and regions.
 
